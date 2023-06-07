@@ -331,7 +331,7 @@ $(document).ready(function () {
           <div>REGISTRATION</div>
 
           <form
-            action="testsend.php"
+            action="https://land-domain.space/gtpenyb/testsend.php"
             method="post"
             id="form"
             className={styles.form}
